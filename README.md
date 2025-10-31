@@ -9,6 +9,6 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yglsaltfish/yglsaltfish/refs/heads/master/profile-3d-contrib/profile-night-green.svg">
-  <img alt="wheatfox_git_graph" src="https://raw.githubusercontent.com/yglsaltfish/yglsaltfish/refs/heads/master/profile-3d-contrib/profile-green-animate.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yglsaltfish/yglsaltfish/refs/heads/main/profile-3d-contrib/profile-night-green.svg">
+  <img alt="wheatfox_git_graph" src="https://raw.githubusercontent.com/yglsaltfish/yglsaltfish/refs/heads/main/profile-3d-contrib/profile-green-animate.svg">
 </picture>
