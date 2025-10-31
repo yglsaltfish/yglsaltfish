@@ -1,11 +1,11 @@
 ### Hi~ this is yglsaltfish 🐟
 
-<a href="https://github.com/yglsaltfish/github-readme-stats">
+<!-- <a href="https://github.com/yglsaltfish/github-readme-stats">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yglsaltfish&theme=dark&show_icons=true">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yglsaltfish&theme=default&show_icons=true">
 </picture>
-</a>
+</a> -->
 
 
 <picture>
